@@ -1,0 +1,7 @@
+[
+  { "name": "Nike Air Force 1", "price": 150, "size": "M", "id": 1 },
+  { "name": "Gucci Durag", "price": 300, "size": "L", "id": 2 },
+  { "name": "Tommy Hilfiger Sweatshirt", "price": 170, "size": "S", "id": 3 },
+  { "name": "Reebok gymwear set", "price": 200, "size": "XL", "id": 4 },
+  { "name": "Adidas hoodie", "price": 75, "size": "M", "id": 5 }
+]
